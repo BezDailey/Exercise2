@@ -1,0 +1,2 @@
+# Exercise2
+2.The computer club is selling T-shirts. Create an attractive user interface that allows users to select sizes (S, M, L, and XL) and quantity. Which controls would be most appropriate? Provide a menu labeled "Process." Display the selections made by the user from a Process menu option under a "Display Order" option. Include an option to exit the application from the Process menu option.
