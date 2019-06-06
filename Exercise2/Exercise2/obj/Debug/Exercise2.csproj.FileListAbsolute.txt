@@ -1,0 +1,11 @@
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.salesPage.resources
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\jabez\Documents\Augusta Tech Classes\CIST2342_C#_Programming_II_Summer_2019\Exercise2\Exercise2\obj\Debug\Exercise2.orderDisplayed.resources
